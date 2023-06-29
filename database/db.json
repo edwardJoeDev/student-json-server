@@ -42,14 +42,58 @@
                 },
                 {
                     "id":7,
-                    "subject":"Science"
-                },
-                {
-                    "id":8,
-                    "subject":"Science"
+                    "subject":"Politics"
                 }
             ],
             "imageUrl":"https://drive.google.com/file/d/1X5J0VsoIl66WhrYwXkJViywqpd9tJPBv/view?usp=drive_link"
+        },
+
+        {
+            "id":2,
+            "name":[
+                {
+                    "first":"Paquito",
+                    "last":"Molina"
+                }
+            ],
+            "age":"27",
+            "coure":[
+                {
+                    "bachelor":"Technology",
+                    "major":"Drafting Technology"
+                }
+            ],
+            "subjects":[
+                {
+                    "id":1,
+                    "subject":"Math"
+                },
+                {
+                    "id":2,
+                    "subject":"Science"
+                },
+                {
+                    "id":3,
+                    "subject":"Physics"
+                },
+                {
+                    "id":4,
+                    "subject":"Chemistry"
+                },
+                {
+                    "id":5,
+                    "subject":"Drawing 1"
+                },
+                {
+                    "id":6,
+                    "subject":"Humanities"
+                },
+                {
+                    "id":7,
+                    "subject":"Politics"
+                }
+            ],
+            "imageUrl":"https://drive.google.com/file/d/1Q9rXnT3qmof_sOTaCUEiTza6skJm5E2x/view?usp=drive_link"
         }
     ]
 }
