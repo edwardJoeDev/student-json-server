@@ -1,0 +1,55 @@
+{
+    "student":[
+        {
+            "id":1,
+            "name":[
+                {
+                    "first":"Edward Joe",
+                    "last":"San Diego"
+                }
+            ],
+            "age":"28",
+            "coure":[
+                {
+                    "bachelor":"Technology",
+                    "major":"Drafting Technology"
+                }
+            ],
+            "subjects":[
+                {
+                    "id":1,
+                    "subject":"Math"
+                },
+                {
+                    "id":2,
+                    "subject":"Science"
+                },
+                {
+                    "id":3,
+                    "subject":"Physics"
+                },
+                {
+                    "id":4,
+                    "subject":"Chemistry"
+                },
+                {
+                    "id":5,
+                    "subject":"Drawing 1"
+                },
+                {
+                    "id":6,
+                    "subject":"Humanities"
+                },
+                {
+                    "id":7,
+                    "subject":"Science"
+                },
+                {
+                    "id":8,
+                    "subject":"Science"
+                }
+            ],
+            "imageUrl":"https://drive.google.com/file/d/1X5J0VsoIl66WhrYwXkJViywqpd9tJPBv/view?usp=drive_link"
+        }
+    ]
+}
